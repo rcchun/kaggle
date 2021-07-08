@@ -1,7 +1,7 @@
 # kaggle
 캐글 프로젝트
 
-캐글 프로젝트 수행 리스트
+캐글 프로젝트 리스트
 
 1. otto group producrt classification challenge
 이번 과제는 세계 최대의 전자상거래 회사 중 하나인 Otto Group에서 주최하는 Otto Group Product Classification Challenge 경진대회에 참석해보겠습니다.
